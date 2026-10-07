@@ -1,12 +1,30 @@
-# GH-900-30-10
-test purpose
-## dit is een nieuwe paragraaf
-Wat een onzin tekst is dit
-In deze paragraaf zit eigenlijk alleen onzin
-# Hoofsstuk 2
-We zijn weer bij de klant. Iedereen heeft het heel erg naar zijn zin. Behalve de personen die om 4 uur moeten gaan voor de sport.
+# Snake Game
 
-###subpaaragraaf
-*schuingedrukt* **vetgedrukt**
+This project is a simple Snake game built with Python and Pygame. The goal is to move the snake around the screen, eat food, grow longer, and avoid crashing into the walls or yourself.
 
-Dit is een aanpassing om te laten zien wat Copilot doet als je een aanpassing doet in je files bij Github
+## Features
+- Classic Snake gameplay
+- Keyboard controls
+- Score tracking
+- Increasing difficulty as the snake grows
+- Simple arcade-style graphics
+
+## Controls
+- Arrow keys: move the snake
+- Up: move up
+- Down: move down
+- Left: move left
+- Right: move right
+
+## Requirements
+- Python 3
+- Pygame
+
+## Installation
+1. Clone the repository
+2. Open a terminal in the project folder
+3. Create a virtual environment (optional but recommended)
+4. Install the dependency:
+
+```bash
+pip install pygame
